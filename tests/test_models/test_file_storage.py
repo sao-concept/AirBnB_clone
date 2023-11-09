@@ -10,7 +10,7 @@ from models.base_model import BaseModel
 
 class TestFileStorage(unittest.TestCase):
     def setUp(self):
-        """Set up test environment."""
+        """Set up the test environment."""
         self.file_path = "file.json"
         if os.path.exists(self.file_path):
             os.remove(self.file_path)
