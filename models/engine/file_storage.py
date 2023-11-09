@@ -10,7 +10,7 @@ class Objects(dict):
 
     This class extends the built-in dict class to provide custom handling of
     objects. It raises custom exceptions for missing instances when accessing
-    keys or popping items.
+    keys or popping items...
     """
 
     def __getitem__(self, key):
