@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 This module contains the HBNBCommand class which
-serves as the command-line interface for the AirBnB
+serves as the command-line interface(CLI) for the AirBnB
 clone project.
 """
 
