@@ -1,5 +1,5 @@
 """
-This module initializes model classes for the AirBnB clone project and handles
+This module initialize model classes for the AirBnB clone project and handles
 class registration.
 
 It imports necessary model classes from the models package, creates a custom
