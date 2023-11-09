@@ -10,7 +10,7 @@ class BaseModel:
     BaseModel class for the AirBnB clone project.
 
     Attributes:
-        id (str): This is a unique identifier for the instance.
+        id (str): This is a unique identifier for every instance.
         created_at (datetime): The date and time when the instance was created.
         updated_at (datetime): The date and time when the instance was last
         updated.
