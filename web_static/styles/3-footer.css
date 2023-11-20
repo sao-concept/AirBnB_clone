@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 footer {
 	background-color: white;
     height: 60px;
@@ -10,3 +11,18 @@ footer {
 	bottom: 0;
 }
 
+=======
+header {
+    height: 70px;
+    width: 100%;
+    border-bottom-width: 1px;
+    border-color: #CCCCCC;
+    border-bottom: solid;
+}
+
+.logo{
+    content: url(../images/logo.png);
+    margin-left: 20px;
+    vertical-align: middle;
+}
+>>>>>>> ce8cdeebae2b38433b1a0e2dde7727f47e1fa48d

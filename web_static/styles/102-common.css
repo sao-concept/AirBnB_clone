@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /****************************************************************************/
 /* reset css */
 /****************************************************************************/
@@ -59,3 +60,23 @@ span {
 	}
 }
 
+=======
+html, body {
+    height: 100%;
+}
+body {
+    margin: 0px;
+    padding: 0px; 
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular, "Helvetica Neue",Helvetica,Arial,sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+.container {
+    max-width: 1000px;
+    margin: 30px auto;
+    width: 100%;
+    flex: 1 0 auto;
+}
+>>>>>>> ce8cdeebae2b38433b1a0e2dde7727f47e1fa48d
